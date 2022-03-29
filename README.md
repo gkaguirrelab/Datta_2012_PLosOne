@@ -7,7 +7,7 @@
 <img src="img/canine_hires_example_sag.png" height="150"> | 
   
 
-<p float="right">
+<p float="left">
   <img src="img/canine_hires_atlas_surface.png" height="300" />
 </p>
 
