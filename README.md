@@ -6,7 +6,7 @@
 
 | Posterior-Anterior             |  Right-Left |
 :-------------------------:|:-------------------------:
-<img src="img/canine_hires_example_ax.png" height="100"  |  ![](img/canine_hires_example_cor.png)
+<img src="img/canine_hires_example_ax.png" height="100">  |  ![](img/canine_hires_example_cor.png)
 ![](img/canine_hires_example_sag.png) | 
   
 
