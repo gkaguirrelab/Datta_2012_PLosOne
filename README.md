@@ -1,7 +1,6 @@
 # Datta_2012_PLosOne
 
 
-| Italic             |  Block letters |
 :-------------------------:|:-------------------------:
 ! [](img/canine_hires_example_ax.png)  |  ![](img/canine_hires_example_cor.png)
 ! [](img/canine_hires_example_sag.png) |  !
