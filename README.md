@@ -1,6 +1,6 @@
 # Datta_2012_PLosOne
 
-<p float="left">
+<p float="right">
   <img src="img/canine_hires_atlas_surface.png" height="300" />
 </p>
 
