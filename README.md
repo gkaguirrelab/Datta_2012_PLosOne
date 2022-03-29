@@ -7,10 +7,6 @@
 <img src="img/canine_hires_example_sag.png" height="150"> | 
   
 
-<p float="left">
-  <img src="img/canine_hires_atlas_surface.png" height="300" />
-</p>
-
 A digital atlas of the canine brain
 
   * R Datta, J Lee, J Duda, BB Avants, CH Vite, B Tseng, JC Gee, GD Aguirre, GK Aguirre. (2012) [A digital atlas of the dog brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052140). PLoS ONE 7(12): e52140
@@ -28,3 +24,8 @@ The atlas is free to use (with appropriate attribution) for academic or commerci
 ## A limitation: gray matter layer
 
 While a white matter segmentation is included in the atlas and is the basis of a surface reconstruction, we have been unable to produce a gray-matter surface. Our images have a image intensity boundary at the outer surface of the gray matter that is unlike in-vivo specimens. Consequently, the FreeSurfer algorithms for growing a gray-matter layer atop the white matter volume do not perform properly. 
+
+
+<p float="left">
+  <img src="img/canine_hires_atlas_surface.png" height="300" />
+</p>
