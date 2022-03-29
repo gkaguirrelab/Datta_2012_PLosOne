@@ -6,8 +6,8 @@
 
 | Posterior-Anterior             |  Right-Left |
 :-------------------------:|:-------------------------:
-![](img/canine_hires_example_ax.png)  |  ![](img/canine_hires_example_cor.png)
-![](img/canine_hires_example_sag.png) | 
+![](img/canine_hires_example_ax.png|height=100px)  |  ![](img/canine_hires_example_cor.png|height=100px)
+![](img/canine_hires_example_sag.png|height=100px) | 
   
 
 A digital atlas of the canine brain
