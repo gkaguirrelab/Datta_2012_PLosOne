@@ -1,4 +1,7 @@
 # Datta_2012_PLosOne
+
+
+
 A digital atlas of the canine brain
 
   * R Datta, J Lee, J Duda, BB Avants, CH Vite, B Tseng, JC Gee, GD Aguirre, GK Aguirre. (2012) [A digital atlas of the dog brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052140). PLoS ONE 7(12): e52140
