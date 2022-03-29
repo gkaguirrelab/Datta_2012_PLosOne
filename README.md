@@ -1,14 +1,15 @@
 # Datta_2012_PLosOne
 
-<p float="right">
-  <img src="img/canine_hires_atlas_surface.png" height="300" />
-</p>
 
 | Posterior-Anterior             |  Right-Left |
 :-------------------------:|:-------------------------:
 <img src="img/canine_hires_example_ax.png" height="150">  |  <img src="img/canine_hires_example_cor.png" height="150">
 <img src="img/canine_hires_example_sag.png" height="150"> | 
   
+
+<p float="right">
+  <img src="img/canine_hires_atlas_surface.png" height="300" />
+</p>
 
 A digital atlas of the canine brain
 
