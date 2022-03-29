@@ -1,10 +1,12 @@
 # Datta_2012_PLosOne
 
-| Anterior-Posterior             |  Right-Left |
+<p float="left">
+| Posterior-Anterior             |  Right-Left |
 :-------------------------:|:-------------------------:
 ![](img/canine_hires_example_ax.png)  |  ![](img/canine_hires_example_cor.png)
 ![](img/canine_hires_example_sag.png) | 
-
+<p>
+  
 <p float="right">
   <img src="img/canine_hires_atlas_surface.png" height="450" />
 </p>
